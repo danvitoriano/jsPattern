@@ -1,4 +1,7 @@
 var app = (function(){
+  
+  "use strict";
+  
   var foo = 'green';
   
   var message = function(){
